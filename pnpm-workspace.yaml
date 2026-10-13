@@ -1,6 +1,6 @@
 packages:
   - .
 allowBuilds:
-  bcrypt: false
-  sharp: false
+  bcrypt: true
+  sharp: true
 minimumReleaseAge: 2880
